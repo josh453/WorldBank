@@ -25,6 +25,12 @@ Install packages using conda
 $ conda install <package>
 ```
 
+## Plotly graphs
+Github does not currently render iFrames so the exported PNG's are used instead and can be seen below:
+![Box Plot](https://github.com/josh453/WorldBank/blob/master/Box%20Plot.png)
+![Scatter Plot](https://github.com/josh453/WorldBank/blob/master/Scatter%20Plot.png)
+![World Map](https://github.com/josh453/WorldBank/blob/master/Map.png)
+
 ## Authors
 
 * **Joshua Stewart** - [Josh453](https://github.com/josh453)
