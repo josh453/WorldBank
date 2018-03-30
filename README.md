@@ -8,10 +8,11 @@ This project has 3 main components:
 * Visualize the data
 
 ## Prerequisites
-Built using Python 3 and Jupyter Notebooks
+Built using Python 3 and Jupyter Notebooks.
 
 This project uses the following packages:
-* Matplotlib
+* [Plotly](https://plot.ly/)
+  * Requires login and API key
 * Numpy
 * Pandas
 
@@ -31,5 +32,3 @@ $ conda install <package>
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/josh453/Twitter-Mining/blob/master/LICENSE) file for details
-
-## Acknowledgments
